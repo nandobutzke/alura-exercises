@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\6-AtribuicoesDeValores\bin\Debug\6-AtribuicoesDeValores.exe.config
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\6-AtribuicoesDeValores\bin\Debug\6-AtribuicoesDeValores.exe
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\6-AtribuicoesDeValores\bin\Debug\6-AtribuicoesDeValores.pdb
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\6-AtribuicoesDeValores\obj\Debug\6-AtribuicoesDeValores.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\6-AtribuicoesDeValores\obj\Debug\6-AtribuicoesDeValores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\6-AtribuicoesDeValores\obj\Debug\6-AtribuicoesDeValores.exe
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\6-AtribuicoesDeValores\obj\Debug\6-AtribuicoesDeValores.pdb

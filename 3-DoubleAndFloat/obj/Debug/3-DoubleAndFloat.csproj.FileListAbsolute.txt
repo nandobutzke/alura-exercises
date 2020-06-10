@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\3-DoubleAndFloat\bin\Debug\3-DoubleAndFloat.exe.config
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\3-DoubleAndFloat\bin\Debug\3-DoubleAndFloat.exe
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\3-DoubleAndFloat\bin\Debug\3-DoubleAndFloat.pdb
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\3-DoubleAndFloat\obj\Debug\3-DoubleAndFloat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\3-DoubleAndFloat\obj\Debug\3-DoubleAndFloat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\3-DoubleAndFloat\obj\Debug\3-DoubleAndFloat.exe
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\3-DoubleAndFloat\obj\Debug\3-DoubleAndFloat.pdb

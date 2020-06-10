@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\10-ExercícioCondicionais\obj\Debug\10-ExercícioCondicionais.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\10-ExercícioCondicionais\obj\Debug\10-ExercícioCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\10-ExercícioCondicionais\bin\Debug\10-ExercícioCondicionais.exe.config
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\10-ExercícioCondicionais\bin\Debug\10-ExercícioCondicionais.exe
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\10-ExercícioCondicionais\bin\Debug\10-ExercícioCondicionais.pdb
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\10-ExercícioCondicionais\obj\Debug\10-ExercícioCondicionais.exe
+C:\Users\User\Desktop\Projetos\C#\AprendendoCSharp\10-ExercícioCondicionais\obj\Debug\10-ExercícioCondicionais.pdb
